@@ -9,15 +9,15 @@ This repository contains Jupyter notebooks for experimenting with different mach
 
 ## 🚀 Getting Started
 Clone the Repository
-```bash
-git clone https://github.com/yourusername/StockPricePrediction-ML.git
-cd StockPricePrediction-ML
+	```bash
+	git clone https://github.com/yourusername/StockPricePrediction-ML.git
+	cd StockPricePrediction-ML
 
 Install Dependencies
 It is recommended to create a virtual environment and install dependencies:
 
-```bash
-pip install -r requirements.txt
+	```bash
+	pip install -r requirements.txt
 
 ## 📊 Models Explored
 Linear Regression
