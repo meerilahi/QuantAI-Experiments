@@ -8,38 +8,31 @@ This repository contains Jupyter notebooks for experimenting with different mach
 - Compare different models based on evaluation metrics.
 
 ## 🚀 Getting Started
-### 1. Clone the Repository
+Clone the Repository
 ```bash
 git clone https://github.com/yourusername/StockPricePrediction-ML.git
 cd StockPricePrediction-ML
 
-2. Install Dependencies
+Install Dependencies
 It is recommended to create a virtual environment and install dependencies:
 
 ```bash
 pip install -r requirements.txt
 
-📊 Models Explored
+## 📊 Models Explored
 Linear Regression
 
-Random Forest
+- Random Forest
+- XGBoost
+- Long Short-Term Memory (LSTM) Networks
+- Transformers for Time Series Forecasting
+- Reinforcement Learning-based Trading Strategies
 
-XGBoost
+## 📈 Data Sources
+- Yahoo Finance API
+- Alpha Vantage API
+- Quandl
+- Other financial datasets
 
-Long Short-Term Memory (LSTM) Networks
-
-Transformers for Time Series Forecasting
-
-Reinforcement Learning-based Trading Strategies
-
-📈 Data Sources
-Yahoo Finance API
-
-Alpha Vantage API
-
-Quandl
-
-Other financial datasets
-
-🤝 Contributing
+## 🤝 Contributing
 Feel free to contribute by adding new models, improving feature engineering techniques, or optimizing the existing models.
